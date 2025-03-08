@@ -7,13 +7,13 @@ The project aims to address various inefficiencies and challenges in the current
 
 ## Table of Contents
 
+- [Usage](#TeckStack)
 - [Installation](#installation)
 - [APIreference](#APIreference)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Teck Stack
+## TeckStack
 
  - Programming Languages: Python, HTML, CSS, Javascript
  - Frameworks: Flask
